@@ -56,7 +56,7 @@ Contributions are welcome! Please follow the standard GitHub fork-and-pull-reque
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under GPLV3 License.
 
 ## Contact
 
